@@ -1,4 +1,9 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+Name: SAIVENKATESH V
+
+Register Number: 212224060228
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
